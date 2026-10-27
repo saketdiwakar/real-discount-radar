@@ -83,3 +83,6 @@ Run-up = average price of the last 10 baseline days compared with the average of
 - **Thresholds are judgement calls.** A sensitivity test across alternative thresholds would strengthen the conclusions.
 - **Real data would need** repeated observations of the same product before the sale, collected within the terms of the source.
 
+
+
+
