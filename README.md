@@ -91,6 +91,5 @@ Run-up = average price of the last 10 baseline days compared with the average of
 
 ### Download the Power BI Report
 
-[Download Real Discount Radar Dashboard (.pbix)](real_discount_radar.pbix)
-
+[Download Real Discount Radar Dashboard (.pbix)] [Download Real Discount Radar Dashboard (.pbix)](./real_discount_radar.pbix)
 Download the report and open it using Microsoft Power BI Desktop.
